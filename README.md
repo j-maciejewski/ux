@@ -1,3 +1,9 @@
+### Authors
+
+Koczan **146909**\
+Maciejewski **146912**\
+Maksimczyk **146913** 
+
 ### Installation
 
 Install the dependencies:
